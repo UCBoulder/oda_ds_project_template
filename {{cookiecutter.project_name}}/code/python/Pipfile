@@ -21,7 +21,7 @@ pytest = "*"
 statsmodels = "*"
 pymc3 = "*"
 paramiko = "*"
-notebook = "==6.4.1"
+notebook = "==6.4.12"
 
 [requires]
 python_version = "3.8"
